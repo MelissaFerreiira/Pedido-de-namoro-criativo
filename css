@@ -1,0 +1,29 @@
+corpo {
+ cor de fundo: rosa;
+ cor: branco;
+ preenchimento: 200px;
+}
+
+p {
+ tamanho da fonte: 30px;
+ peso fonte: negrito;
+}
+
+botão {
+ cor de fundo: vermelho;
+ cor: branco;
+ largura: 100px;
+ posição: absoluta;
+}
+
+.escondido {
+ exibição:nenhum;
+}
+
+#move
+ esquerda: 200px;
+}
+
+#change:pairar {
+ cursor:ponteiro;
+}
